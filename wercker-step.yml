@@ -1,0 +1,6 @@
+name: mktemp
+version: 0.0.1
+description: Create a temporary file or directory and save the path in a environment variable.
+keywords:
+  - mktemp
+  - temporary
