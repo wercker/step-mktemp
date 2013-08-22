@@ -1,6 +1,8 @@
-# mktemp
+# mktemp 
 
 A step to create a temporary file or directory and store the path in a environment variable. This environment variable can be used by other steps to store and read temporary data.
+
+[![wercker status](https://app.wercker.com/status/78dd8423c33d3606752b9197f070dac4/m "wercker status")](https://app.wercker.com/project/bykey/78dd8423c33d3606752b9197f070dac4)
 
 # What's new
 
