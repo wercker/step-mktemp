@@ -12,4 +12,4 @@ if [ "$WERCKER_MKTEMP_DIRECTORY" = "true" ] ; then
   mktemp_command="$mktemp_command -d"
 fi
 
-export $WERCKER_MKTEMP_ENVVAR=$(mktemp_command)
+export $WERCKER_MKTEMP_ENVVAR=$($mktemp_command)
