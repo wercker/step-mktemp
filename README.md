@@ -6,7 +6,8 @@ A step to create a temporary file or directory and store the path in a environme
 
 # What's new
 
-- Initial release
+- Add badge to README
+- Fixed typo in success output
 
 # Options
 
@@ -58,6 +59,11 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
+
+## 1.0.1
+
+- Add badge to README
+- Fixed typo in success output
 
 ## 1.0.0
 
